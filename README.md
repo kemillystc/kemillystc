@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @kemillystc
+- 👀 I’m interested in ... em terminar meus estudos.
+- 🌱 I’m currently learning ... eu estou aprendendo Scratch,github,alura,javaScript.
+- 💞️ 'Não leve a vida muito a sério você não vai sair vivo dela'
+- 📫 How to reach me ... cruz.kemilly@escola.pr.gov.br
